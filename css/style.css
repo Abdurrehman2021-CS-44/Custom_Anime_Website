@@ -1,0 +1,25 @@
+.myBox
+{
+    width: 400px;
+    height: 390px;
+
+}
+.myBorder
+{
+    border: 1px solid green;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 2px 2px gray;
+    background-color: aliceblue;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.myPadding
+{
+    padding-left: 20px;
+}
+.myFont
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
